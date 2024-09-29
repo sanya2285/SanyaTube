@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin: 20px auto;
+    width: 50%;
+}
+
+#uploadButton {
+    font-size: 30px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#uploadForm {
+    display: none;
+    margin-top: 20px;
+}
+
+#videoGallery {
+    margin-top: 30px;
+}
+
+.video-item {
+    margin: 10px 0;
+}
